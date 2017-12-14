@@ -34,7 +34,7 @@ cat <<EOF | tee /usr/share/applications/popcorn-time.desktop
 [Desktop Entry]
 Name=Popcorn Time
 Icon=popcorn-time
-Comment=A whole new way to watch movies and TV
+Comment=A whole new way to watch movies and TV series
 Exec=popcorn
 Terminal=false
 Type=Application
